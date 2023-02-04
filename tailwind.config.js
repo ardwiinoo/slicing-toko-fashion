@@ -13,6 +13,7 @@ module.exports = {
         borderColor: "#787878",
         bgColor: "#EDEDED",
         bgGreen: "#023423",
+        bgGray: "#F5F5F5",
       },
     },
   },
